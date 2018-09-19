@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/debug/jniLibs"/></dataSet></merger>

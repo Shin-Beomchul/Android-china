@@ -1,0 +1,44 @@
+-injars /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/51e2dae16db9c2fb24a0fc640107d95c/jars/classes.jar(**.class)
+-injars /Users/god/.gradle/caches/modules-2/files-2.1/com.tencent.mm.opensdk/wechat-sdk-android-with-mta/5.1.6/2a867edf0fb47c112e512e8d6440554b1cf67ac6/wechat-sdk-android-with-mta-5.1.6.jar(**.class)
+-injars /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/god/Library/Android/sdk/build-tools/27.0.3/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# view AndroidManifest.xml #generated:15
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
