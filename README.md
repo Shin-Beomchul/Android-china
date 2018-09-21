@@ -1,7 +1,7 @@
 # Android-china
 Android 중국개발 샘플
 
-# WeChat 페이 SDK 현지화
+# WeChat 페이 SDK 현지화(한국)
 **구동환경 세팅**
 1. libs제거.
 2. 그래들 의존성 추가 implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:5.1.6'
