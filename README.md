@@ -1,8 +1,12 @@
 # Android-china
-Android 중국개발 샘플
+Android 중국개발 Log
 
 # WeChat 페이 SDK 현지화(한국)
+Weixin Develop Home : https://open.weixin.qq.com/
+가입은 간단하지만 개발자 인증인 상당히 까다로운 편
+
 **Just Build & Run 세팅**
+
 1. libs제거.
 
 2. 그래들 의존성 추가 implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:5.1.6'
