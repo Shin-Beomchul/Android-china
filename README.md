@@ -11,5 +11,5 @@ Android 중국개발 샘플
 6. wechat - 한글화
 7. OldSample 개선
 
-** 언어번역 Strings 중국어 -> En변경 **
+ 언어번역 Strings 중국어 -> En변경 
 
