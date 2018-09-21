@@ -44,9 +44,10 @@ Weixin Develop Home : https://open.weixin.qq.com/
  업로드 필수조건 : sw저작권증명서, 전자 SW저작권증명서
  특수앱같은 경우 굉장히 까다로워 질 수 있음. 각종 증명서들 필요.
 
- Tencent : https://user.open.qq.com/
+ Tencent : https://user.open.qq.com/ -> 응용프로그램 개방형 플랫폼
  기업계정 Try : 3450439503
  개인계정 Try : sbc0830g@g***
+ !t
  
  360     : 
  Baidu   : 
@@ -57,5 +58,8 @@ Weixin Develop Home : https://open.weixin.qq.com/
   특별한 이유가 없다면 안드로이드 서비스는 나중에 진입 할것. IOS 먼저 진입.
    https://www.mobvista.com/kr/blog/중국-게임시장-진출의-성공-노하우/
    
+  
    weChat의 공식계정 혹은 미니프로그램 이라고 불리는 서비스가 모바일 스토어 시장을 빠르게 잠식하고 있음.
    2018년 기준 향후 정말로 위챗 앱이 플랫폼이 될 수도 있음 
+   https://user.open.qq.com/ 여기서 위챗 플랫폼이 바로 이 미니 프로그램, 공식계정 이라고 불림.
+   
