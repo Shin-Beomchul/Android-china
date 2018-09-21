@@ -2,7 +2,7 @@
 Android 중국개발 샘플
 
 # WeChat 페이 SDK 현지화
-** 구동환경 세팅 **
+**구동환경 세팅 **
 1. libs제거.
 2. 그래들 의존성 추가 implementation 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:5.1.6'
 3. 빌드 그래들 3.0.0으로 변경 ,
@@ -15,12 +15,12 @@ Android 중국개발 샘플
 
 # Push
  Baidu http://push.baidu.com/console/app
-  sbc0830 / !t 
-  Android Client : http://push.baidu.com/doc/android/api
+ sbc0830 / !t 
+ Android Client : http://push.baidu.com/doc/android/api
   
-  IOS Client : http://push.baidu.com/doc/ios/api
+ IOS Client : http://push.baidu.com/doc/ios/api
   
-  Server(java) : http://push.baidu.com/doc/java/api
+ Server(java) : http://push.baidu.com/doc/java/api
   
   
   
