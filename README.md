@@ -1,5 +1,5 @@
 # Android-china
-Android 중국개발 Log
+Android & IOS 중국개발 Log
 
 # WeChat 페이 SDK 현지화(한국)
 Weixin Develop Home : https://open.weixin.qq.com/
