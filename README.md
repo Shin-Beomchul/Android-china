@@ -1,6 +1,7 @@
 # Android-china
 Android & IOS 중국개발 Log
-
+- MeterialCalc : 바이두 푸시를 포함한 각종 예제 모음
+ - weChatPay  : 위챗페이 결제 새플
 
 
 # WeChat 페이 SDK 현지화(한국)

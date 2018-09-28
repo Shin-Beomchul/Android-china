@@ -1,4 +1,4 @@
-#Wed Sep 19 16:42:26 KST 2018
+#Thu Sep 27 15:37:20 KST 2018
 base.0=/Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex

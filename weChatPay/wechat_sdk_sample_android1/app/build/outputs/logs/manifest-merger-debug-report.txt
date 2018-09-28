@@ -4,7 +4,7 @@ ADDED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_andro
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
-MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/51e2dae16db9c2fb24a0fc640107d95c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d50a5280979de89a9b692a8709b41228/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:2:1-74:12
@@ -26,8 +26,8 @@ uses-sdk
 ADDED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:7:5-43
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:7:5-43
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/51e2dae16db9c2fb24a0fc640107d95c/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/51e2dae16db9c2fb24a0fc640107d95c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d50a5280979de89a9b692a8709b41228/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/god/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/d50a5280979de89a9b692a8709b41228/AndroidManifest.xml:20:5-43
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:7:5-43
 INJECTED from /Users/god/Dev/github/Android-china/weChatPay/wechat_sdk_sample_android1/app/src/main/AndroidManifest.xml:7:5-43
 	android:targetSdkVersion

@@ -1,0 +1,76 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#EDEDED"
+              android:orientation="vertical"
+              >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/btnSticky"
+            android:text="Section Wrapp Sticky"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/sectionRecyclerView"
+            android:text="section RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+        <!--람다문제로 AspectJ 임시 제거-->
+        <Button
+            android:visibility="gone"
+            android:id="@+id/btnAspectJ"
+            android:text="Aspect J"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/btnRipple"
+            android:text="Free OS Background with RIPPLE"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+        <Button
+            android:id="@+id/btnConfig"
+            android:text="remote Config"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnNotiRealm"
+            android:text="Noti-List(Realm)"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+
+        <Button
+            android:id="@+id/btnNotification"
+            android:text="Notification In Button"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+
+        <Button
+            android:id="@+id/licenseInfo"
+            android:text="licenseInfo"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+</android.support.v4.widget.DrawerLayout>
